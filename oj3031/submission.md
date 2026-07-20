@@ -113,7 +113,7 @@ Do not copy AI's explanation.
 Do not copy another person's explanation.
 
 ```text
-s
+.s
 ```
 
 ---
